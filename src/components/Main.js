@@ -9,7 +9,7 @@ class AppComponent extends React.Component {
   render() {
     return (
       <div className="index">
-        <div className="notice">Hello there</div>
+        <div className="notice">Hello there!!!</div>
       </div>
     );
   }
